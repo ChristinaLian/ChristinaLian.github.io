@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>我的主页</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Hi there!</h1>
+    <p>Welcome to CHRISTY's notepad.</p>
+    
+    <h2>常用链接</h2>
+    <ul>
+        <li><a href="https://www.google.com" target="_blank">Google</a></li>
+        <li><a href="https://github.com" target="_blank">GitHub</a></li>
+    </ul>
+</body>
+</html>
